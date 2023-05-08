@@ -1,0 +1,7 @@
+{
+  "name": "icon-custom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
