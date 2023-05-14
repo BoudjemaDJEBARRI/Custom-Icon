@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">icon-custom</string>
+    <string name="title_activity_main">icon-custom</string>
+    <string name="package_name">com.contactsApp</string>
+    <string name="custom_url_scheme">com.contactsApp</string>
+</resources>
